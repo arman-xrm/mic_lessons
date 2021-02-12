@@ -18,7 +18,7 @@ namespace Homework_01
             }else if (g == 1){
                 arr = GetArrayManual(n);
             }else{
-                Console.WriteLine("=====================Read attentively====================");​
+                Console.WriteLine("=====================Read attentively====================");
             }
 
 Console.WriteLine("=================My Array======================");
