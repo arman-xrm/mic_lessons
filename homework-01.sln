@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework-01", "homework-01\homework-01.csproj", "{EFC2A21B-AB69-4B10-A627-4A43E9AC1DFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homework-01", "homework-01\homework-01.csproj", "{EFC2A21B-AB69-4B10-A627-4A43E9AC1DFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-cSharp.oop", "lesson-cSharp.oop\lesson-cSharp.oop.csproj", "{C7365248-DB5C-4833-92EE-3D660BC94E7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-cSharp.oop", "lesson-cSharp.oop\lesson-cSharp.oop.csproj", "{C7365248-DB5C-4833-92EE-3D660BC94E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework-02", "homework-02\homework-02.csproj", "{F927498C-CEF5-4984-8DAA-A4004D9CED2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C7365248-DB5C-4833-92EE-3D660BC94E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7365248-DB5C-4833-92EE-3D660BC94E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7365248-DB5C-4833-92EE-3D660BC94E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F927498C-CEF5-4984-8DAA-A4004D9CED2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F927498C-CEF5-4984-8DAA-A4004D9CED2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F927498C-CEF5-4984-8DAA-A4004D9CED2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F927498C-CEF5-4984-8DAA-A4004D9CED2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
